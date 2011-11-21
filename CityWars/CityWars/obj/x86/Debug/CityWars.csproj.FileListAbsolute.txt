@@ -1,0 +1,11 @@
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\CityWars.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\CityWars.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\obj\x86\Debug\CityWars.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\obj\x86\Debug\CityWars.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\Content\CitiBkg.xnb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\Content\foreground.xnb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\Content\building.xnb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\Content\Cannon.xnb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWars\bin\x86\Debug\Content\newbuilding.xnb
