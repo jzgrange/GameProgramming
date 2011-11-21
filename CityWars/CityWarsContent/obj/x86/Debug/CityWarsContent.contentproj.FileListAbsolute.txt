@@ -1,1 +1,2 @@
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\CityWars\CityWars\CityWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\workspace\GameProgramming\CityWars\CityWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache

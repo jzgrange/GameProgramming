@@ -10,9 +10,9 @@ namespace CityWars
         /// </summary>
         static void Main(string[] args)
         {
-            using (DrawGame game = new DrawGame())
+            using (Game1 runGame = new Game1())
             {
-                game.Run();
+                runGame.Run();
             }
         }
     }
